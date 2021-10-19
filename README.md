@@ -1,6 +1,6 @@
 # Firebase-JavaScript
 
-### Koneksi antara Javascript dan Firebase
+### Koneksi antara Javascript dan Firebase<br/>
 ```javascript
     <script id="MainScript">
       var firebaseConfig = {

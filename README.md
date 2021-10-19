@@ -14,6 +14,10 @@
       };
       firebase.initializeApp(firebaseConfig);
 ```
+<br/>
+### Jika ingin memanggil item/value dari ID html dapat menggunakan potongan program dibawah
+<br/>
+
 ```javascript
 var xxx = document.getElementById("namaid");
 ```

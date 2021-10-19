@@ -19,15 +19,11 @@
 ```javascript
 var xxx = document.getElementById("namaid");
 ```
-### Jika ingin memanggil item/value dari ID html dapat menggunakan potongan program dibawah<br/>
-```javascript
-    
-```
-### Retrieve atau mengambil data dari Firebase 
+### Retrieve atau mengambil data dari Firebase<br/>
 ```javascript
     var dbRef = firebase.database().ref().child("nama_child").on("value", (snap) => (nama_var_id.innerText = snap.val()));
 ```
-### Set atau mengirim data ke Firebase
+### Set atau mengirim data ke Firebase<br/>
 ```javascript
     firebase.database().ref("nama_child").set("Value");
 ```

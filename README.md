@@ -27,3 +27,14 @@ var xxx = document.getElementById("namaid");
 ```javascript
     firebase.database().ref("nama_child").set("Value");
 ```
+<br />
+Enjoy!!!
+<br />
+<br />
+<br />
+<br />
+
+###### Author
+
+ASNProject<br />
+email: asnproject02@gmail.com
